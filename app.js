@@ -20,6 +20,8 @@ const THANA_ALIAS_CANDIDATES = {
   "titas": ["Daudkandi", "Homna", "Meghna", "Muradnagar"],
 };
 
+const DATA_VERSION = "20260329";
+
 const map = L.map("map", {
   zoomControl: true,
 }).setView([23.685, 90.3563], 7);
@@ -350,9 +352,17 @@ function bindEvents() {
 async function initialize() {
   try {
     const [studentsResponse, bangladeshResponse] = await Promise.all([
-      fetch("students.json"),
-      fetch("bangladesh.geojson"),
+      fetch(`./students.json?v=${DATA_VERSION}`, { cache: "no-store" }),
+      fetch(`./bangladesh.geojson?v=${DATA_VERSION}`, { cache: "no-store" }),
     ]);
+
+    if (!studentsResponse.ok) {
+      throw new Error(`students.json failed with ${studentsResponse.status}`);
+    }
+
+    if (!bangladeshResponse.ok) {
+      throw new Error(`bangladesh.geojson failed with ${bangladeshResponse.status}`);
+    }
 
     state.students = await studentsResponse.json();
     state.bangladeshGeoJSON = await bangladeshResponse.json();
@@ -372,7 +382,7 @@ async function initialize() {
     updateStatus("Ready");
   } catch (error) {
     console.error(error);
-    updateStatus("Failed to load student data.");
+    updateStatus(`Failed to load data: ${error.message || "Unknown error"}`);
   }
 }
 
