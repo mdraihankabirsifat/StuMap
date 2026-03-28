@@ -1,0 +1,1220 @@
+﻿{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Akhaura",
+                "district": "Brahmanbaria",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.24811,
+                    24.068517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Anwara",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.876461,
+                    22.370171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Baraigram",
+                "district": "Natore",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.926881,
+                    24.362551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Barishal Sadar",
+                "district": "Barishal",
+                "division": "Barishal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.3667,
+                    22.7010
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Barlekha",
+                "district": "Moulvibazar",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.906382,
+                    24.58716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Begumganj",
+                "district": "Noakhali",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.061377,
+                    22.839655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Bogura Sadar",
+                "district": "Bogura",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.43755,
+                    24.903077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Brahmanbaria Sadar",
+                "district": "Brahmanbaria",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.094754,
+                    23.948023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Brahmanpara",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.1180,
+                    23.6180
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Burichong",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.231896,
+                    23.500771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Chandpur Sadar",
+                "district": "Chandpur",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.691434,
+                    23.262558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Chattogram Sadar",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.856063,
+                    22.354144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Chuadanga Sadar",
+                "district": "Chuadanga",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.950209,
+                    23.718738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Cox\u0027s Bazar Sadar",
+                "district": "Cox\u0027s Bazar",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.0058,
+                    21.4272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Cumilla Sadar",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.1809,
+                    23.4607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Daudkandi",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.220226,
+                    23.491601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Debidwar",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.303809,
+                    23.557273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Delduar",
+                "district": "Tangail",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.889337,
+                    24.22591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Dhaka Sadar",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.517528,
+                    23.892824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Dhanmondi",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.3742,
+                    23.7461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Dinajpur Sadar",
+                "district": "Dinajpur",
+                "division": "Rangpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.642369,
+                    25.631863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Dohar",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.371894,
+                    23.778398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Faridganj",
+                "district": "Chandpur",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.583125,
+                    23.177457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Faridpur",
+                "district": "Faridpur",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.752784,
+                    23.549333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Feni Sadar",
+                "district": "Feni",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.383908,
+                    23.007359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Gazaria",
+                "district": "Munshiganj",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.419224,
+                    23.452964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Gazipur Sadar",
+                "district": "Gazipur",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4203,
+                    24.0023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Ghatail",
+                "district": "Tangail",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.008962,
+                    24.319901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Habiganj Sadar",
+                "district": "Habiganj",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.404166,
+                    24.367561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Hathazari",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.71835,
+                    22.245942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Homna",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.149464,
+                    23.436003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Jashore Sadar",
+                "district": "Jashore",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.267692,
+                    23.207475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Kalapara",
+                "district": "Patuakhali",
+                "division": "Barishal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.198263,
+                    22.256494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Khulna Sadar",
+                "district": "Khulna",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5403,
+                    22.8158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Kotchandpur",
+                "district": "Jhenidah",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.218413,
+                    23.570184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Kotwali",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.8317,
+                    22.3350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Kurigram Sadar",
+                "district": "Kurigram",
+                "division": "Rangpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.564015,
+                    25.742442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Magura Sadar",
+                "district": "Magura",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.408722,
+                    23.481141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Manikganj Sadar",
+                "district": "Manikganj",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.994369,
+                    23.855578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Manirampur",
+                "district": "Jashore",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.335881,
+                    23.261051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Mehendiganj",
+                "district": "Barishal",
+                "division": "Barishal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.320914,
+                    22.665028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Mirpur",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.3667,
+                    23.8041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Mohammadpur",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.3623,
+                    23.7640
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Monohorgonj",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.227022,
+                    23.496941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Moulvibazar Sadar",
+                "district": "Moulvibazar",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.755807,
+                    24.46885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Muradnagar",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.162812,
+                    23.44649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Mymensingh Sadar",
+                "district": "Mymensingh",
+                "division": "Mymensingh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4125,
+                    24.7471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Nangalkot",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.051711,
+                    23.359196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Naogaon Sadar",
+                "district": "Naogaon",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.000915,
+                    24.850007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Narayanganj Sadar",
+                "district": "Narayanganj",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.5000,
+                    23.6238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Narsingdi Sadar",
+                "district": "Narsingdi",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.744119,
+                    23.938953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Nilphamari Sadar",
+                "district": "Nilphamari",
+                "division": "Rangpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.924609,
+                    25.998623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Noakhali Sadar",
+                "district": "Noakhali",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.992267,
+                    22.785355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Paba",
+                "district": "Rajshahi",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.549085,
+                    24.331197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Pabna Sadar",
+                "district": "Pabna",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.138189,
+                    23.920008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Pahartali",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.7921,
+                    22.3643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Panchlaish",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.8167,
+                    22.3606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Raiganj",
+                "district": "Sirajganj",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.818619,
+                    24.553203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rajarhat",
+                "district": "Kurigram",
+                "division": "Rangpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.605724,
+                    25.775214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rajnagar",
+                "district": "Moulvibazar",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.800884,
+                    24.504268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rajshahi Sadar",
+                "district": "Rajshahi",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.6042,
+                    24.3745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Ramganj",
+                "district": "Lakshmipur",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.709846,
+                    22.855596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rangamati Sadar",
+                "district": "Rangamati",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.206884,
+                    22.678983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rangpur Sadar",
+                "district": "Rangpur",
+                "division": "Rangpur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.2493,
+                    25.7439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Raozan",
+                "district": "Chattogram",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.744572,
+                    22.266545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Rupganj",
+                "district": "Narayanganj",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.360983,
+                    23.514574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sakhipur",
+                "district": "Tangail",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.93244,
+                    24.259777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Satkhira Sadar",
+                "district": "Satkhira",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.211376,
+                    22.813226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Savar",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.2580,
+                    23.8583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sherpur",
+                "district": "Sherpur",
+                "division": "Mymensingh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.889965,
+                    24.917832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sirajganj Sadar",
+                "district": "Sirajganj",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.697978,
+                    24.458414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sonadanga",
+                "district": "Khulna",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5147,
+                    22.8380
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sreemangal",
+                "district": "Moulvibazar",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.75182,
+                    24.465718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sujanagar",
+                "district": "Pabna",
+                "division": "Rajshahi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.10271,
+                    23.892132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sunamganj Sadar",
+                "district": "Sunamganj",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.464729,
+                    25.128718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Sylhet Sadar",
+                "district": "Sylhet",
+                "division": "Sylhet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.8687,
+                    24.8949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Tala",
+                "district": "Satkhira",
+                "division": "Khulna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.065524,
+                    22.698628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Tangail Sadar",
+                "district": "Tangail",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.784035,
+                    24.143172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Tejgaon",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.3976,
+                    23.7638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Titas",
+                "district": "Cumilla",
+                "division": "Chattogram"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.048463,
+                    23.356644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "thana": "Uttara",
+                "district": "Dhaka",
+                "division": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4000,
+                    23.8759
+                ]
+            }
+        }
+    ]
+}
