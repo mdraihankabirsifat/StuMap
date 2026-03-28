@@ -38,9 +38,16 @@
         <span>Matches</span>
       </div>
       <ul id="resultsList" class="results-list"></ul>
+    </aside>
 
-      <section class="form-section">
-        <h2>Add Student</h2>
+    <main class="map-pane">
+      <div id="map"></div>
+      <button id="openAddStudentBtn" class="add-fab" type="button">+ Add Student</button>
+      <section id="floatingFormPanel" class="floating-form-panel" aria-hidden="true">
+        <div class="floating-form-header">
+          <h2>Add Student</h2>
+          <button id="closeAddStudentBtn" class="close-mini" type="button" aria-label="Close">x</button>
+        </div>
         <form id="studentForm" class="student-form">
           <input name="id" placeholder="ID (e.g., 2104999)" required>
           <input name="name" placeholder="Name" required>
@@ -50,10 +57,6 @@
         </form>
         <p class="hint">Stored fields: id, name, thana, addrress.</p>
       </section>
-    </aside>
-
-    <main class="map-pane">
-      <div id="map"></div>
       <div id="statusBadge" class="status-badge">Ready</div>
     </main>
   </div>

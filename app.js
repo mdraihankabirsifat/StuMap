@@ -37,8 +37,13 @@ const elements = {
   resultsList: document.getElementById("resultsList"),
   resultCount: document.getElementById("resultCount"),
   studentForm: document.getElementById("studentForm"),
+  floatingFormPanel: document.getElementById("floatingFormPanel"),
+  openAddStudentBtn: document.getElementById("openAddStudentBtn"),
+  closeAddStudentBtn: document.getElementById("closeAddStudentBtn"),
   statusBadge: document.getElementById("statusBadge"),
 };
+
+let formAutoCloseTimer = null;
 
 function normalize(value) {
   return String(value || "").trim().toLowerCase();
@@ -163,6 +168,22 @@ function updateStatus(message) {
   elements.statusBadge.textContent = message;
 }
 
+function showAddStudentPanel() {
+  if (!elements.floatingFormPanel) {
+    return;
+  }
+  elements.floatingFormPanel.classList.add("show");
+  elements.floatingFormPanel.setAttribute("aria-hidden", "false");
+}
+
+function hideAddStudentPanel() {
+  if (!elements.floatingFormPanel) {
+    return;
+  }
+  elements.floatingFormPanel.classList.remove("show");
+  elements.floatingFormPanel.setAttribute("aria-hidden", "true");
+}
+
 function selectStudent(student) {
   state.selectedStudentId = student.id;
   renderResults();
@@ -253,6 +274,22 @@ function addStudent(newStudent, statusMessage) {
 }
 
 function bindEvents() {
+  elements.openAddStudentBtn?.addEventListener("click", () => {
+    if (formAutoCloseTimer) {
+      clearTimeout(formAutoCloseTimer);
+      formAutoCloseTimer = null;
+    }
+    showAddStudentPanel();
+  });
+
+  elements.closeAddStudentBtn?.addEventListener("click", () => {
+    if (formAutoCloseTimer) {
+      clearTimeout(formAutoCloseTimer);
+      formAutoCloseTimer = null;
+    }
+    hideAddStudentPanel();
+  });
+
   elements.searchInput.addEventListener("input", (event) => {
     state.query = event.target.value;
     renderResults();
@@ -299,6 +336,14 @@ function bindEvents() {
 
     addStudent(newStudent, statusMessage);
     event.currentTarget.reset();
+
+    if (formAutoCloseTimer) {
+      clearTimeout(formAutoCloseTimer);
+    }
+    formAutoCloseTimer = setTimeout(() => {
+      hideAddStudentPanel();
+      formAutoCloseTimer = null;
+    }, 650);
   });
 }
 
@@ -324,7 +369,7 @@ async function initialize() {
 
     bindEvents();
     renderResults();
-    updateStatus(`Loaded ${state.students.length} students.`);
+    updateStatus("Ready");
   } catch (error) {
     console.error(error);
     updateStatus("Failed to load student data.");
